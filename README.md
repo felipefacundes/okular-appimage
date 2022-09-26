@@ -311,5 +311,5 @@ Although the AppImage format was carefully designed not to need any special supp
 
 ### Other Okular lists
 
-- [Okular-linuxdeploy](https://github.com/linuxdeploy/Okular-linuxdeploy) - Okular list on linuxdeploy.
+- [Okular-AppImage](https://github.com/felipefacundes/okular-appimage/releases/download/v22.08.1/Okular.full-22.08.1-x86_64.AppImage) - Okular in AppImage.
 - [All Okular Lists](https://github.com/topics/Okular) - All the Okular lists on GitHub.
