@@ -27,7 +27,7 @@ Okular Appimage finally the best pdf reader in AppImage. Okular is a multiplatfo
 
 Okular combines the excellent functionalities with the versatility of supporting different kind of documents, like PDF, Postscript, DjVu, CHM, XPS, ePub and others.
 
-https://okular.kde.org/
+[https://okular.kde.org/](https://okular.kde.org/)
 
 [AppImage](https://appimage.org) is a community-based format to distribute applications to various mainstream Linux distributions without the need for a centralized store. One app = one file! This list contains tools to work with AppImages, such as to create AppImages for applications and to integrate AppImages into the system easily. As the vibrant community around AppImage is growing, so is this list.
 
