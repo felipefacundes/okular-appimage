@@ -19,8 +19,14 @@ An implementation of [AppImage](https://appimage.org) AppImage format.
 
 # Okular AppImage 22.08.1
 
+AppImage for KDE okular
+
 [![Okular](https://upload.wikimedia.org/wikipedia/commons/0/02/KDE-graphics-viewer-document.svg)](https://okular.kde.org/)
 Okular Appimage finally the best pdf reader in AppImage. Okular is a multiplatform document viewer developed by the KDE community and based on Qt and KDE Frameworks libraries. It is distributed as part of the KDE Applications bundle. Its origins are from KPDF and it replaces KPDF, KGhostView, KFax, KFaxview and KDVI in KDE 4.
+
+Okular combines the excellent functionalities with the versatility of supporting different kind of documents, like PDF, Postscript, DjVu, CHM, XPS, ePub and others.
+
+https://okular.kde.org/
 
 [AppImage](https://appimage.org) is a community-based format to distribute applications to various mainstream Linux distributions without the need for a centralized store. One app = one file! This list contains tools to work with AppImages, such as to create AppImages for applications and to integrate AppImages into the system easily. As the vibrant community around AppImage is growing, so is this list.
 
