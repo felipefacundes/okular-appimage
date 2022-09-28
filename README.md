@@ -12,7 +12,7 @@ An implementation of [AppImage](https://appimage.org) AppImage format.
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/KDE-graphics-viewer-document.svg/1024px-KDE-graphics-viewer-document.svg.png" width="125" alt="Okular">
 	</a>
 	<p>
-		<sub>Lovingly crafted AppImage tools and resources.</a>.</sub>
+		<sub>Lovingly crafted AppImage tools and resources.</sub>
 	</p>
 </div>
 
