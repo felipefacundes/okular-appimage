@@ -5,17 +5,18 @@ An implementation of [AppImage](https://appimage.org) AppImage format.
 <!--lint disable double-link-->
 
 <div align="center">
-	<div>
-		<img width="125" src="https://upload.wikimedia.org/wikipedia/commons/7/73/App-image-logo.svg" alt= AppImage">
-	</div>
+	<a href="https://appimage.org">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/App-image-logo.svg" width="125" alt= AppImage">
+	</a>
 	<a href="https://okular.kde.org/">
-		<!img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/KDE-graphics-viewer-document.svg/1024px-KDE-graphics-viewer-document.svg.png" alt="Okular">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/KDE-graphics-viewer-document.svg/1024px-KDE-graphics-viewer-document.svg.png" alt="Okular">
 	</a>
 	<p>
 		<sub>Lovingly crafted AppImage tools and resources.</a>.</sub>
 	</p>
-	<br>
 </div>
+
+<br>
 
 # Okular AppImage 22.08.1
 
