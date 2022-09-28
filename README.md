@@ -6,7 +6,7 @@ An implementation of [AppImage](https://appimage.org) AppImage format.
 
 <div align="center">
 	<a href="https://appimage.org">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/App-image-logo.svg" width="125" alt= AppImage">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/7/73/App-image-logo.svg" width="125" alt="AppImage">
 	</a>
 	<a href="https://okular.kde.org/">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/KDE-graphics-viewer-document.svg/1024px-KDE-graphics-viewer-document.svg.png" width="125" alt="Okular">
